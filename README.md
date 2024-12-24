@@ -19,3 +19,8 @@
 ![image](https://github.com/user-attachments/assets/48bef0c2-317c-470d-bc53-ea7f07e1621c)
 <p>Vamos clonar a página de Login do Facebook selecionando a opção 2</p>
 
+## Passo Final:
+![image](https://github.com/user-attachments/assets/474f556a-5d25-448b-ae77-0393eb9a82ff)
+<p>Agora coloque o seu IP e depois a URL do site que deseja clonar</p>
+
+![image](https://github.com/user-attachments/assets/f4cfb5c7-63b5-45d2-8fb9-8fb53c7149fc)
